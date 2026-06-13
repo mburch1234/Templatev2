@@ -1,0 +1,10 @@
+menu_item_id,item_name,description,price,is_available
+1,Classic Dog,Beef frank on a standard bun with mustard and ketchup,3.50,true
+2,Chili Cheese Dog,Beef frank topped with chili and shredded cheese,5.00,true
+3,Turkey Dog,Turkey frank on a standard bun with mustard,3.75,true
+4,Veggie Dog,Veggie frank on a pretzel bun with relish and onion,4.25,true
+5,Sauerkraut Dog,Beef frank with sauerkraut and mustard on pretzel bun,4.50,true
+6,Spicy Jalapeno Dog,Beef frank with jalapenos cheese and chili,5.25,true
+7,The Works Dog,Beef frank with mustard ketchup relish onion and sauerkraut,5.50,true
+8,Bottled Water,Cold bottled water,1.50,true
+9,Canned Soda,Assorted canned sodas,2.00,true

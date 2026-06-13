@@ -1,0 +1,16 @@
+ingredient_id,ingredient_name,unit,cost_per_unit,vendor_id
+1,Beef Frank,each,0.45,1
+2,Turkey Frank,each,0.50,1
+3,Veggie Frank,each,0.65,1
+4,Standard Bun,each,0.20,2
+5,Pretzel Bun,each,0.40,2
+6,Yellow Mustard,oz,0.05,4
+7,Ketchup,oz,0.05,4
+8,Relish,oz,0.08,4
+9,Diced Onion,oz,0.06,3
+10,Sauerkraut,oz,0.10,3
+11,Chili,oz,0.15,4
+12,Shredded Cheese,oz,0.12,3
+13,Jalapenos,oz,0.10,3
+14,Bottled Water,each,0.35,5
+15,Canned Soda,each,0.40,5
